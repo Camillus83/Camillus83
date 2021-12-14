@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Camillus83
-- 👀 I’m interested in Electrical Engineering and Computer Science
-- 🌱 I’m currently learning C++ and Python
+- 👋 Hi, I’m @Camillus83, Bachelor of Electrical Engineering.
+- 👀 I’m interested in Electrical Engineering and Computer Science.
+- 🌱 I’m currently learning C++ and Python.
 - 📫 How to reach me on instagram @rich3h
 
 <!---
