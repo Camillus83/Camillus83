@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Camillus83, Bachelor of Electrical Engineering.
+- 👋 Hi, I’m @Camillus83, Master of Electrical Engineering.
 - 👀 I’m interested in Electrical Engineering and Computer Science.
-- 🌱 I’m currently learning C++ and Python.
+- 🌱 I’m currently learning Python with Django, Javascript and ServiceNow Things.
 
 <!---
 Camillus83/Camillus83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
