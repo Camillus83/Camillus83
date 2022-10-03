@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Camillus83, Master of Electrical Engineering.
+- 👋 Hi, I’m @Camillus83.
 - 👀 I’m interested in Electrical Engineering and Computer Science.
 - 🌱 I’m currently learning Python with Django, Javascript and ServiceNow Things.
 
